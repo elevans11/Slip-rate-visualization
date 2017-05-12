@@ -1,0 +1,39 @@
+Name
+st_long  st_lat   end_long  end_lat
+lock_dep ld_sig   ld_toggle
+dip      dip_sig  dip_toggle
+ss_rate  ss_sig   ss_tog
+ds_rate  ds_sig   ds_tog
+ts_rate  ts_sig   ts_tog
+bur_dep  bd_sig   bd_tog
+fres     fres_ov  fres_other
+other1   other2   other3
+other4   other5   other6
+other7   other8   other9
+other10  other11  other12
+SSAF       
+243.696   33.445   244.151  33.070
+17.0   4.0  0.0
+90.0   1.0  0.0
+-25.0   3.0  0.0
+0.0   1.0  0.0
+0.0   1.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+San Jacinto
+243.433   33.219   243.887  32.844
+12.0   4.0  0.0
+90.0   1.0  0.0
+-21.0   3.0  0.0
+0.0   1.0  0.0
+0.0   1.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
