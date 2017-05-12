@@ -1,0 +1,52 @@
+Name
+st_long  st_lat   end_long  end_lat
+lock_dep ld_sig   ld_toggle
+dip      dip_sig  dip_toggle
+ss_rate  ss_sig   ss_tog
+ds_rate  ds_sig   ds_tog
+ts_rate  ts_sig   ts_tog
+bur_dep  bd_sig   bd_tog
+fres     fres_ov  fres_other
+other1   other2   other3
+other4   other5   other6
+other7   other8   other9
+other10  other11  other12
+DeepSAF_North
+238.285   37.119   238.620  36.760
+12.0   1.0  0.0
+90.0   1.0  0.0
+-38.0   1.0  0.0
+0.0   1.0  0.0
+0.0   1.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+DeepSAF_Sud  
+239.720   35.730   239.852  35.600
+20.0   1.0  0.0
+90.0   1.0  0.0
+-38.0   1.0  0.0
+0.0   1.0  0.0
+0.0   1.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+DeepSAF_creep
+238.620   36.760   239.720  35.730
+12.0   1.0  0.0
+90.0   1.0  0.0
+-34.5   1.0  0.0
+0.0   1.0  0.0
+0.0   1.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
+0.0   0.0  0.0
